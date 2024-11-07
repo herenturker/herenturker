@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Habil Eren.
-- 👀 I’m interested in embedded software developing.
+- 👀 I’m interested in embedded software development.
 - 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on many robotic projects.
 - 📫 I only use LinkedIn.

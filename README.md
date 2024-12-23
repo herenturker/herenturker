@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate **embedded software developer** with a deep interest in low-level programming and robotics. Ever since I was 8 years old, I've been captivated by how technology works. This curiosity drives me to explore and create innovative solutions using embedded systems and software development. 
 
-- 🌱 I’m currently diving into **Assembly language** to master low-level programming.
+- 🌱 I’m currently diving into **Assembly language** to get better at low-level programming.
 - 👯 I’m looking to collaborate on **open-source embedded projects**.
 - 💬 Ask me about **embedded software development**, **microcontrollers**, or **low-level programming**.
 - ⚡ Fun fact: I enjoy dismantling gadgets to see how they work (and sometimes putting them back together!).

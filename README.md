@@ -33,7 +33,7 @@ I'm a passionate **embedded software developer** with a deep interest in low-lev
 
 ## Contact 📫
 - **LinkedIn:** [linkedin.com/in/habilerent](https://www.linkedin.com/in/habilerent/)  
-- **Instagram:** [@h_erenturker](https://www.instagram.com/h_erenturker)  
+- **Instagram:** [@herentrkr](https://www.instagram.com/herentrkr)  
 
 ---
 

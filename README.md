@@ -31,8 +31,6 @@ I'm a passionate **kernel software developer** with a deep interest in low-level
 
 ## Contact 📫
 - **LinkedIn:** [linkedin.com/in/habilerent](https://www.linkedin.com/in/habilerent/)  
-- **Instagram:** [@herentrkr](https://www.instagram.com/herentrkr)  
-
 ---
 
 Thank you for visiting my profile! 😊

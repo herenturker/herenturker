@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate **kernel software developer** with a deep interest in low-level programming and robotics. Ever since I was 8 years old, I've been captivated by how technology works. This curiosity drives me to explore and create innovative solutions using software development. 
 
-- I’m currently diving into **Assembly language** to get better at low-level programming.
+- I’m currently diving into **Assembly language and Rust** to get better at low-level programming.
 - I’m looking to collaborate on **open-source low-level projects**.
 - Fun fact: I enjoy dismantling gadgets to see how they work (and sometimes putting them back together!).
 -  And decided to be a software engineer when I was 8!
@@ -11,11 +11,11 @@ I'm a passionate **kernel software developer** with a deep interest in low-level
 ---
 
 ## Languages ##
-
-  ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-  ![Assembly](https://img.shields.io/badge/-Assembly-FFA500?style=flat)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+C | 
+C++ |
+Java |
+Assembly |
+Rust
   
 ## GitHub Stats 📊
 <table>

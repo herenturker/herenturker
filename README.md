@@ -21,7 +21,7 @@ Rust
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=habilerent&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=herenturker&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats">
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@ Rust
 ---
 
 ## Contact 📫
-- **LinkedIn:** [linkedin.com/in/habilerent](https://www.linkedin.com/in/habilerent/)  
+- **LinkedIn:** [linkedin.com/in/herenturker](https://www.linkedin.com/in/herenturker/)  
 ---
 
 Thank you for visiting my profile! 😊

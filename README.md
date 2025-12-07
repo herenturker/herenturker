@@ -11,16 +11,6 @@ I'm a passionate **software developer** with a deep interest in creating new thi
 ## "What I cannot create, I do not understand."
 
 ### — Richard Feynman
-  
-## GitHub Stats 📊
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=herenturker&theme=radical&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats">
-    </td>
-  </tr>
-</table>
-
 
 ---
 

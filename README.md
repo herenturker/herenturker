@@ -8,16 +8,3 @@ You can contact me without hesitation.
 
 ---
 
-## 📊 GitHub Stats
-
-| Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=herenturker&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herenturker&layout=compact&theme=radical) |
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=herenturker&theme=radical)
-
----
-
-## 🐍 Contribution Graph Animation
-
-![snake gif](https://raw.githubusercontent.com/herenturker/herenturker/output/github-contribution-grid-snake-dark.svg)
